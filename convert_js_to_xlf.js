@@ -24436,7 +24436,6 @@ const translations_zh_TW = {
   };
 
 
-// Translation dictionaries for different locales
 const translations = {
     en: translations_en,
     de: translations_de,
