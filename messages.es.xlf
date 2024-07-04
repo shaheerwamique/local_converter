@@ -17,7 +17,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target>Alteração de política 2FA</target>
+        <target>Política 2FA modificada</target>
       </trans-unit>
       <trans-unit id="ALL_IN_ONE_EVENTS" datatype="html">
         <source>ALL_IN_ONE_EVENTS</source>
@@ -25,7 +25,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">31</context>
         </context-group>
-        <target>Todos os eventos</target>
+        <target>Todos los eventos</target>
       </trans-unit>
       <trans-unit id="AUTHORIZATION_FAILED" datatype="html">
         <source>AUTHORIZATION_FAILED</source>
@@ -33,7 +33,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">32</context>
         </context-group>
-        <target>Falha de autorização</target>
+        <target>Error de autorización</target>
       </trans-unit>
       <trans-unit id="BULK_USERS_IMPORT" datatype="html">
         <source>BULK_USERS_IMPORT</source>
@@ -41,7 +41,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target>Importação de usuário em massa</target>
+        <target>Usuarios importados de forma masiva</target>
       </trans-unit>
       <trans-unit id="COLLABORATOR_ROLE_UPDATE" datatype="html">
         <source>COLLABORATOR_ROLE_UPDATE</source>
@@ -49,7 +49,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target>Alteração de permissão</target>
+        <target>Permiso modificado</target>
       </trans-unit>
       <trans-unit id="CONTENT_ALL_EMPTIED" datatype="html">
         <source>CONTENT_ALL_EMPTIED</source>
@@ -57,7 +57,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">35</context>
         </context-group>
-        <target>Toda a lixeira excluída</target>
+        <target>Todos los elementos de la papelera eliminados</target>
       </trans-unit>
       <trans-unit id="CONTENT_DELETE" datatype="html">
         <source>CONTENT_DELETE</source>
@@ -65,7 +65,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">36</context>
         </context-group>
-        <target>Excluir</target>
+        <target>Eliminar</target>
       </trans-unit>
       <trans-unit id="CONTENT_DOWNLOADED" datatype="html">
         <source>CONTENT_DOWNLOADED</source>
@@ -73,7 +73,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
-        <target>Download</target>
+        <target>Descargar</target>
       </trans-unit>
       <trans-unit id="CONTENT_EMPTIED" datatype="html">
         <source>CONTENT_EMPTIED</source>
@@ -81,7 +81,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target>Arquivo da lixeira excluído</target>
+        <target>Archivo de la papelera eliminado</target>
       </trans-unit>
       <trans-unit id="CONTENT_LOCK" datatype="html">
         <source>CONTENT_LOCK</source>
@@ -113,7 +113,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
-        <target>Renomear</target>
+        <target>Renombrar</target>
       </trans-unit>
       <trans-unit id="CONTENT_RESTORED" datatype="html">
         <source>CONTENT_RESTORED</source>
@@ -121,7 +121,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">43</context>
         </context-group>
-        <target>Arquivo da lixeira restaurado</target>
+        <target>Archivo de la papelera restaurado</target>
       </trans-unit>
       <trans-unit id="CONTENT_UNLOCK" datatype="html">
         <source>CONTENT_UNLOCK</source>
@@ -137,7 +137,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">45</context>
         </context-group>
-        <target>Sincronização desabilitada</target>
+        <target>Sincronización deshabilitada</target>
       </trans-unit>
       <trans-unit id="DESKTOP_SYNC_ENABLED" datatype="html">
         <source>DESKTOP_SYNC_ENABLED</source>
@@ -145,7 +145,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
-        <target>Sincronização habilitada</target>
+        <target>Sincronización habilitada</target>
       </trans-unit>
       <trans-unit id="DOCUMENT_COPY" datatype="html">
         <source>DOCUMENT_COPY</source>
@@ -153,7 +153,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">47</context>
         </context-group>
-        <target>Arquivo copiado</target>
+        <target>Archivo copiado</target>
       </trans-unit>
       <trans-unit id="DOCUMENT_CREATE" datatype="html">
         <source>DOCUMENT_CREATE</source>
@@ -161,7 +161,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">48</context>
         </context-group>
-        <target>Arquivo criado</target>
+        <target>Archivo creado</target>
       </trans-unit>
       <trans-unit id="DRAFT_ADDED" datatype="html">
         <source>DRAFT_ADDED</source>
@@ -169,7 +169,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">49</context>
         </context-group>
-        <target>Adição de rascunho</target>
+        <target>Borrador añadido</target>
       </trans-unit>
       <trans-unit id="FOLDER_COPY" datatype="html">
         <source>FOLDER_COPY</source>
@@ -177,7 +177,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">50</context>
         </context-group>
-        <target>Pasta copiada</target>
+        <target>Carpeta copiada</target>
       </trans-unit>
       <trans-unit id="FOLDER_CREATE" datatype="html">
         <source>FOLDER_CREATE</source>
@@ -185,7 +185,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">51</context>
         </context-group>
-        <target>Pasta criada</target>
+        <target>Carpeta creada</target>
       </trans-unit>
       <trans-unit id="GROUP_CREATE" datatype="html">
         <source>GROUP_CREATE</source>
@@ -193,7 +193,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>Grupo criado</target>
+        <target>Grupo creado</target>
       </trans-unit>
       <trans-unit id="GROUP_DELETE" datatype="html">
         <source>GROUP_DELETE</source>
@@ -201,7 +201,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target>Grupo excluído</target>
+        <target>Grupo eliminado</target>
       </trans-unit>
       <trans-unit id="GROUP_EDIT" datatype="html">
         <source>GROUP_EDIT</source>
@@ -217,7 +217,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">55</context>
         </context-group>
-        <target>Link exibido</target>
+        <target>Enlace visualizado</target>
       </trans-unit>
       <trans-unit id="LINK_DOWNLOAD" datatype="html">
         <source>LINK_DOWNLOAD</source>
@@ -225,7 +225,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">56</context>
         </context-group>
-        <target>Link baixado</target>
+        <target>Se descargó el enlace</target>
       </trans-unit>
       <trans-unit id="LINK_GENERATED" datatype="html">
         <source>LINK_GENERATED</source>
@@ -233,7 +233,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">57</context>
         </context-group>
-        <target>Link criado</target>
+        <target>Enlace creado</target>
       </trans-unit>
       <trans-unit id="LINK_REVOKED" datatype="html">
         <source>LINK_REVOKED</source>
@@ -241,7 +241,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target>Link revogado</target>
+        <target>Enlace revocado</target>
       </trans-unit>
       <trans-unit id="OAUTH_CLIENT_CREATE" datatype="html">
         <source>OAUTH_CLIENT_CREATE</source>
@@ -249,7 +249,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">59</context>
         </context-group>
-        <target>Criação de cliente OAuth</target>
+        <target>Cliente de OAuth creado</target>
       </trans-unit>
       <trans-unit id="OAUTH_CLIENT_DELETE" datatype="html">
         <source>OAUTH_CLIENT_DELETE</source>
@@ -257,7 +257,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">60</context>
         </context-group>
-        <target>Exclusão de cliente OAuth</target>
+        <target>Eliminación de cliente OAuth</target>
       </trans-unit>
       <trans-unit id="REPORT_EXPORT_ERROR" datatype="html">
         <source>REPORT_EXPORT_ERROR</source>
@@ -265,7 +265,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">61</context>
         </context-group>
-        <target>Uma solicitação de relatório semelhante está em andamento.</target>
+        <target>Se está procesando una solicitud de informe similar.</target>
       </trans-unit>
       <trans-unit id="REPORT_EXPORT_SUCCESS" datatype="html">
         <source>REPORT_EXPORT_SUCCESS</source>
@@ -273,7 +273,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target>Solicitação de relatório enviada</target>
+        <target>La solicitud de informe se envió correctamente</target>
       </trans-unit>
       <trans-unit id="REPORT_EXPORT" datatype="html">
         <source>REPORT_EXPORT</source>
@@ -281,7 +281,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">63</context>
         </context-group>
-        <target>Exportação de relatório</target>
+        <target>Exportación de informe</target>
       </trans-unit>
       <trans-unit id="REPORT_REVOKE_SHARE" datatype="html">
         <source>REPORT_REVOKE_SHARE</source>
@@ -289,7 +289,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">64</context>
         </context-group>
-        <target>Compartilhamento revogado</target>
+        <target>Uso compartido revocado</target>
       </trans-unit>
       <trans-unit id="REVOKE_ALL_SHARES" datatype="html">
         <source>REVOKE_ALL_SHARES</source>
@@ -297,7 +297,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">65</context>
         </context-group>
-        <target>Todos os compartilhamentos revogados</target>
+        <target>Todos los usos compartidos revocados</target>
       </trans-unit>
       <trans-unit id="REVOKE_USER_AS_ADMIN" datatype="html">
         <source>REVOKE_USER_AS_ADMIN</source>
@@ -305,7 +305,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">66</context>
         </context-group>
-        <target>Administrador revogado</target>
+        <target>Administrador revocado</target>
       </trans-unit>
       <trans-unit id="SERVICE_USER_CREATE" datatype="html">
         <source>SERVICE_USER_CREATE</source>
@@ -313,7 +313,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">67</context>
         </context-group>
-        <target>Criação de ID de serviço</target>
+        <target>ID de servicio creado</target>
       </trans-unit>
       <trans-unit id="SERVICE_USER_EDIT" datatype="html">
         <source>SERVICE_USER_EDIT</source>
@@ -321,7 +321,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">68</context>
         </context-group>
-        <target>Edição de ID de serviço</target>
+        <target>ID de servicio editado</target>
       </trans-unit>
       <trans-unit id="SET_USER_AS_ADMIN" datatype="html">
         <source>SET_USER_AS_ADMIN</source>
@@ -329,7 +329,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-        <target>Administrador adicionado</target>
+        <target>Administrador añadido</target>
       </trans-unit>
       <trans-unit id="SHARE" datatype="html">
         <source>SHARE</source>
@@ -337,7 +337,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">70</context>
         </context-group>
-        <target>Compartilhar</target>
+        <target>Compartir</target>
       </trans-unit>
       <trans-unit id="SSO_IDP_METADATA_CONFIGURE" datatype="html">
         <source>SSO_IDP_METADATA_CONFIGURE</source>
@@ -345,7 +345,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">71</context>
         </context-group>
-        <target>Alteração de IDP de SSO</target>
+        <target>IDP de SSO modificado</target>
       </trans-unit>
       <trans-unit id="TENANT_ACCESS_EXTERNAL_CONTENT_DISABLED" datatype="html">
         <source>TENANT_ACCESS_EXTERNAL_CONTENT_DISABLED</source>
@@ -353,7 +353,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">72</context>
         </context-group>
-        <target>Acesso externo desativado</target>
+        <target>Acceso externo desactivado</target>
       </trans-unit>
       <trans-unit id="TENANT_ACCESS_EXTERNAL_CONTENT_ENABLED" datatype="html">
         <source>TENANT_ACCESS_EXTERNAL_CONTENT_ENABLED</source>
@@ -361,7 +361,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">73</context>
         </context-group>
-        <target>Acesso externo ativado</target>
+        <target>Acceso externo activado</target>
       </trans-unit>
       <trans-unit id="TENANT_EXTERNAL_SHARING_DISABLED" datatype="html">
         <source>TENANT_EXTERNAL_SHARING_DISABLED</source>
@@ -369,7 +369,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">74</context>
         </context-group>
-        <target>Compartilhamento externo desativado</target>
+        <target>Uso compartido externo desactivado</target>
       </trans-unit>
       <trans-unit id="TENANT_EXTERNAL_SHARING_ENABLED" datatype="html">
         <source>TENANT_EXTERNAL_SHARING_ENABLED</source>
@@ -377,7 +377,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">75</context>
         </context-group>
-        <target>Compartilhamento externo ativado</target>
+        <target>Uso compartido externo activado</target>
       </trans-unit>
       <trans-unit id="TENANT_SESSION_TIMEOUT" datatype="html">
         <source>TENANT_SESSION_TIMEOUT</source>
@@ -385,7 +385,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">76</context>
         </context-group>
-        <target>Tempo limite de sessão</target>
+        <target>Tiempo de espera de sesión</target>
       </trans-unit>
       <trans-unit id="USER_CREATE" datatype="html">
         <source>USER_CREATE</source>
@@ -393,7 +393,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">77</context>
         </context-group>
-        <target>Usuário criado</target>
+        <target>Usuario creado</target>
       </trans-unit>
       <trans-unit id="USER_DISABLE" datatype="html">
         <source>USER_DISABLE</source>
@@ -401,7 +401,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>Usuário desabilitado</target>
+        <target>Usuario deshabilitado</target>
       </trans-unit>
       <trans-unit id="USER_EDIT" datatype="html">
         <source>USER_EDIT</source>
@@ -417,7 +417,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">80</context>
         </context-group>
-        <target>Membro excluído</target>
+        <target>Miembro eliminado</target>
       </trans-unit>
       <trans-unit id="USER_RESTORE" datatype="html">
         <source>USER_RESTORE</source>
@@ -425,7 +425,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">81</context>
         </context-group>
-        <target>Usuário restaurado</target>
+        <target>Usuario restaurado</target>
       </trans-unit>
       <trans-unit id="USER_REVOKE_AS_CONTENT_MANAGER" datatype="html">
         <source>USER_REVOKE_AS_CONTENT_MANAGER</source>
@@ -433,7 +433,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">82</context>
         </context-group>
-        <target>Gerente de conteúdo revogado</target>
+        <target>Administrador de contenido revocado</target>
       </trans-unit>
       <trans-unit id="USER_REVOKE_AS_GROUP_ADMIN" datatype="html">
         <source>USER_REVOKE_AS_GROUP_ADMIN</source>
@@ -441,7 +441,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">83</context>
         </context-group>
-        <target>Administrador de grupo revogado</target>
+        <target>Administrador de grupo revocado</target>
       </trans-unit>
       <trans-unit id="USER_SET_AS_CONTENT_MANAGER" datatype="html">
         <source>USER_SET_AS_CONTENT_MANAGER</source>
@@ -449,7 +449,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">84</context>
         </context-group>
-        <target>Gerente de conteúdo adicionado</target>
+        <target>Administrador de contenido añadido</target>
       </trans-unit>
       <trans-unit id="USER_SET_AS_GROUP_ADMIN" datatype="html">
         <source>USER_SET_AS_GROUP_ADMIN</source>
@@ -457,7 +457,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">85</context>
         </context-group>
-        <target>Administrador de grupo adicionado</target>
+        <target>Administrador de grupo añadido</target>
       </trans-unit>
       <trans-unit id="USER_SET_AS_GROUP_MEMBER" datatype="html">
         <source>USER_SET_AS_GROUP_MEMBER</source>
@@ -465,7 +465,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">86</context>
         </context-group>
-        <target>Membro do grupo adicionado</target>
+        <target>Miembro del grupo añadido</target>
       </trans-unit>
       <trans-unit id="VERSION_ADDED" datatype="html">
         <source>VERSION_ADDED</source>
@@ -473,7 +473,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">87</context>
         </context-group>
-        <target>Adição de versão</target>
+        <target>Versión añadida</target>
       </trans-unit>
       <trans-unit id="VIRUS_SCAN_FAILED" datatype="html">
         <source>VIRUS_SCAN_FAILED</source>
@@ -481,7 +481,7 @@
           <context context-type="sourcefile">src/app/config/localization-mapping.ts</context>
           <context context-type="linenumber">88</context>
         </context-group>
-        <target>Falha na verificação de vírus</target>
+        <target>Error en el análisis de virus</target>
       </trans-unit>
       <trans-unit id="1398806746542650231" datatype="html">
         <source>Write your message here</source>
@@ -494,7 +494,7 @@
           <context context-type="linenumber">128</context>
         </context-group>
         <note priority="1" from="description">Write your message here</note>
-        <target>Escreva sua mensagem aqui</target>
+        <target>Escriba el mensaje aquí</target>
       </trans-unit>
       <trans-unit id="3674730399130530991" datatype="html">
         <source> Maximum character limit is 2048 </source>
@@ -511,7 +511,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-add-form/collaborators-add-form.component.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
-        <target>Insira um nome de usuário ou endereço de e-mail</target>
+        <target>Ingrese un nombre de usuario o una dirección de correo electrónico</target>
       </trans-unit>
       <trans-unit id="1540281436321485610" datatype="html">
         <source>Manager</source>
@@ -523,7 +523,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-list-table/collaborators-list-table.component.ts</context>
           <context context-type="linenumber">60,59</context>
         </context-group>
-        <target>Gerente</target>
+        <target>Administrador</target>
       </trans-unit>
       <trans-unit id="6983611739165934184" datatype="html">
         <source>Collaborator</source>
@@ -547,7 +547,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-list-table/collaborators-list-table.component.ts</context>
           <context context-type="linenumber">69,68</context>
         </context-group>
-        <target>Visualizador</target>
+        <target>Observador</target>
       </trans-unit>
       <trans-unit id="2256196161103684642" datatype="html">
         <source>Limited</source>
@@ -653,7 +653,7 @@
           <context context-type="linenumber">157</context>
         </context-group>
         <note priority="1" from="description">Write your hint here</note>
-        <target>Escreva sua dica aqui</target>
+        <target>Escriba la sugerencia aquí</target>
       </trans-unit>
       <trans-unit id="4246632252102315075" datatype="html">
         <source>Send To - Add names and email addresses</source>
@@ -661,7 +661,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-link-create/collaborators-link-create.component.ts</context>
           <context context-type="linenumber">70</context>
         </context-group>
-        <target>Enviar para - Adicionar nomes e endereços de e-mail</target>
+        <target>Enviar a: añadir nombres y direcciones de correo electrónico</target>
       </trans-unit>
       <trans-unit id="8700121026680200191" datatype="html">
         <source>Clear</source>
@@ -677,7 +677,7 @@
           <context context-type="sourcefile">src/app/modules/ui/search-within-filter/search-within-filter.component.ts</context>
           <context context-type="linenumber">26</context>
         </context-group>
-        <target>Limpar</target>
+        <target>Borrar</target>
       </trans-unit>
       <trans-unit id="6490688569532630280" datatype="html">
         <source>Send</source>
@@ -709,7 +709,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-link-create/collaborators-link-create.component.ts</context>
           <context context-type="linenumber">272</context>
         </context-group>
-        <target>Eu gostaria de compartilhar minha pasta com você no Core</target>
+        <target>Me gustaría compartir mi carpeta con usted en Core</target>
       </trans-unit>
       <trans-unit id="8688418698685108131" datatype="html">
         <source>I'd like to share my file with you on Core</source>
@@ -717,7 +717,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-link-create/collaborators-link-create.component.ts</context>
           <context context-type="linenumber">273</context>
         </context-group>
-        <target>Eu gostaria de compartilhar meu arquivo com você no Core</target>
+        <target>Me gustaría compartir mi archivo con usted en Core</target>
       </trans-unit>
       <trans-unit id="4864010264350890429" datatype="html">
         <source>Email sent successfully !</source>
@@ -757,7 +757,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-link-create/collaborators-link-create.component.ts</context>
           <context context-type="linenumber">392</context>
         </context-group>
-        <target>A operação "Revogar Link" não pôde ser concluída neste momento.</target>
+        <target>Lo sentimos, la operación "Revocar enlace" no se ha podido completar en este momento.</target>
       </trans-unit>
       <trans-unit id="5163830118406492206" datatype="html">
         <source>Please wait and try again later.</source>
@@ -765,7 +765,7 @@
           <context context-type="sourcefile">src/app/modules/collaborators-async/collaborators-link-create/collaborators-link-create.component.ts</context>
           <context context-type="linenumber">393</context>
         </context-group>
-        <target>Aguarde e tente novamente mais tarde.</target>
+        <target>Espere y vuelva a intentarlo más tarde.</target>
       </trans-unit>
       <trans-unit id="7805445487874246921" datatype="html">
         <source>Could not revoke the link</source>
@@ -881,7 +881,7 @@
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">43</context>
         </context-group>
-        <target>OK</target>
+        <target>Aceptar</target>
       </trans-unit>
       <trans-unit id="4576240972594020228" datatype="html">
         <source>
@@ -920,7 +920,7 @@
           <context context-type="linenumber">47</context>
         </context-group>
         <note priority="1" from="description">Expiry Text</note>
-        <target>Não definido</target>
+        <target>No establecid</target>
       </trans-unit>
       <trans-unit id="5481105273806364595" datatype="html">
         <source> In </source>
@@ -1063,7 +1063,7 @@
           <context context-type="linenumber">23</context>
         </context-group>
         <note priority="1" from="description">Name</note>
-        <target>Nome</target>
+        <target>Nombre</target>
       </trans-unit>
       <trans-unit id="187187500641108332" datatype="html">
         <source>
@@ -1192,7 +1192,7 @@
           <context context-type="linenumber">26</context>
         </context-group>
         <note priority="1" from="description">Collections sidebar link text</note>
-        <target>Coleções</target>
+        <target>Colecciones</target>
       </trans-unit>
       <trans-unit id="871291869280862718" datatype="html">
         <source>Add your comment</source>
@@ -1201,7 +1201,7 @@
           <context context-type="linenumber">20</context>
         </context-group>
         <note priority="1" from="description">Add comment placeholder</note>
-        <target>Adicionar seu comentário</target>
+        <target>Añadir comentario</target>
       </trans-unit>
       <trans-unit id="7708270344948043036" datatype="html">
         <source>
@@ -1289,7 +1289,7 @@
           <context context-type="linenumber">15,17</context>
         </context-group>
         <note priority="1" from="description">Resource commenting on</note>
-        <target>Comentário feito em</target>
+        <target>Comentando en</target>
       </trans-unit>
       <trans-unit id="311237892335411584" datatype="html">
         <source>Uploaded by</source>
@@ -1298,7 +1298,7 @@
           <context context-type="linenumber">49,52</context>
         </context-group>
         <note priority="1" from="description">Resource uploaded by</note>
-        <target>Upload realizado por</target>
+        <target>Cargado por</target>
       </trans-unit>
       <trans-unit id="720557322859638078" datatype="html">
         <source>You</source>
@@ -1314,7 +1314,7 @@
           <context context-type="sourcefile">src/app/modules/ui/shared-by-info/shared-by-info.component.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
-        <target>Você</target>
+        <target>Usted</target>
       </trans-unit>
       <trans-unit id="6218566719637714212" datatype="html">
         <source>Like</source>
@@ -1322,7 +1322,7 @@
           <context context-type="sourcefile">src/app/modules/comments-integrate/comment-like.service.ts</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <target>Curtir</target>
+        <target>Me gusta</target>
       </trans-unit>
       <trans-unit id="7112532281224432421" datatype="html">
         <source>Likes</source>
@@ -1330,7 +1330,7 @@
           <context context-type="sourcefile">src/app/modules/comments-integrate/comment-like.service.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
-        <target>Curtidas</target>
+        <target>Me gusta</target>
       </trans-unit>
       <trans-unit id="3324491207923507270" datatype="html">
         <source>CLEAR</source>
@@ -1355,7 +1355,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">118</context>
         </context-group>
-        <target>Compartilhado</target>
+        <target>Compartido</target>
       </trans-unit>
       <trans-unit id="3973931101896534797" datatype="html">
         <source>Date</source>
@@ -1379,7 +1379,7 @@
           <context context-type="sourcefile">src/app/utils/filters/filter.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
-        <target>Data</target>
+        <target>Fecha</target>
       </trans-unit>
       <trans-unit id="2320792318849507980" datatype="html">
         <source>The user does not exist or is not an active user in this tenant</source>
@@ -1445,7 +1445,7 @@
           <context context-type="linenumber">59,60</context>
         </context-group>
         <note priority="1" from="description">Sort by owner name</note>
-        <target>Proprietário</target>
+        <target>Propietario</target>
       </trans-unit>
       <trans-unit id="45739481977493163" datatype="html">
         <source>Size</source>
@@ -1462,7 +1462,7 @@
           <context context-type="linenumber">29</context>
         </context-group>
         <note priority="1" from="description">Sort by Size header</note>
-        <target>Tamanho</target>
+        <target>Tamaño</target>
       </trans-unit>
       <trans-unit id="3553216189604488439" datatype="html">
         <source>Modified</source>
@@ -1537,7 +1537,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">283</context>
         </context-group>
-        <target>Áudio</target>
+        <target>Audio</target>
       </trans-unit>
       <trans-unit id="6352017799872688693" datatype="html">
         <source>Drawings</source>
@@ -1569,7 +1569,7 @@
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target>E-mail</target>
+        <target>Correo electrónico</target>
       </trans-unit>
       <trans-unit id="7046259383943324039" datatype="html">
         <source>Folder</source>
@@ -1581,7 +1581,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">286</context>
         </context-group>
-        <target>Pasta</target>
+        <target>Carpeta</target>
       </trans-unit>
       <trans-unit id="414887388288176527" datatype="html">
         <source>Images</source>
@@ -1593,7 +1593,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">287</context>
         </context-group>
-        <target>Imagens</target>
+        <target>Imágenes</target>
       </trans-unit>
       <trans-unit id="6437441283465569103" datatype="html">
         <source>PDF</source>
@@ -1653,7 +1653,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">292</context>
         </context-group>
-        <target>Vídeo</target>
+        <target>Video</target>
       </trans-unit>
       <trans-unit id="8693603235657020323" datatype="html">
         <source>Other</source>
@@ -1665,7 +1665,7 @@
           <context context-type="sourcefile">src/app/modules/search-async/search-results-filters/search-results-filters.component.ts</context>
           <context context-type="linenumber">293</context>
         </context-group>
-        <target>Outro</target>
+        <target>Otro</target>
       </trans-unit>
       <trans-unit id="6205355627445317276" datatype="html">
         <source>Content</source>
@@ -1674,7 +1674,7 @@
           <context context-type="linenumber">19</context>
         </context-group>
         <note priority="1" from="description">Users sidebar link text</note>
-        <target>Conteúdo</target>
+        <target>Contenido</target>
       </trans-unit>
       <trans-unit id="5635860082093871248" datatype="html">
         <source>Lock</source>
@@ -1714,7 +1714,7 @@
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">249,248</context>
         </context-group>
-        <target>Interromper compartilhamento</target>
+        <target>Detener el uso compartido</target>
       </trans-unit>
       <trans-unit id="8182730591610790005" datatype="html">
         <source>Stop Share will remove all collaborators but the file will still exist in the user's Files list.</source>
@@ -1722,7 +1722,7 @@
           <context context-type="sourcefile">src/app/modules/content-integrate/content-registration.service.ts</context>
           <context context-type="linenumber">90</context>
         </context-group>
-        <target>Parar o compartilhamento removerá todos os colaboradores, mas o arquivo ainda existirá na lista de arquivos do usuário.</target>
+        <target>Al dejar de compartir, se eliminarán todos los colaboradores, pero el archivo seguirá existiendo en la lista de archivos del usuario.</target>
       </trans-unit>
       <trans-unit id="8590223924590996572" datatype="html">
         <source>Unshare confirmation</source>
@@ -1866,7 +1866,7 @@
           <context context-type="sourcefile">src/app/modules/trash-integrate/trash-registration.service.ts</context>
           <context context-type="linenumber">45</context>
         </context-group>
-        <target>Excluir</target>
+        <target>Eliminar</target>
       </trans-unit>
       <trans-unit id="3099741642167775297" datatype="html">
         <source>Download</source>
@@ -1878,7 +1878,7 @@
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">137,136</context>
         </context-group>
-        <target>Download</target>
+        <target>Descargar</target>
       </trans-unit>
       <trans-unit id="8547654856963149342" datatype="html">
         <source>Download Audit</source>
@@ -1890,7 +1890,7 @@
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">158,157</context>
         </context-group>
-        <target>Fazer download da auditoria</target>
+        <target>Descargar auditoría</target>
       </trans-unit>
       <trans-unit id="3309973566259313398" datatype="html">
         <source>Audit</source>
@@ -1902,7 +1902,7 @@
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">54,53</context>
         </context-group>
-        <target>Auditoria</target>
+        <target>Auditoría</target>
       </trans-unit>
       <trans-unit id="317181206861630746" datatype="html">
         <source>
@@ -1971,7 +1971,7 @@ of
           <context context-type="linenumber">12</context>
         </context-group>
         <note priority="1" from="description">Dashboard</note>
-        <target>Painel</target>
+        <target>Panel</target>
       </trans-unit>
       <trans-unit id="7886570921510760899" datatype="html">
         <source>Tags</source>
@@ -1984,7 +1984,7 @@ of
           <context context-type="linenumber">192,191</context>
         </context-group>
         <note priority="1" from="description">Tags</note>
-        <target>Tags</target>
+        <target>Etiquetas</target>
       </trans-unit>
       <trans-unit id="669379202478188871" datatype="html">
         <source>No tags yet.</source>
@@ -2002,7 +2002,7 @@ of
           <context context-type="linenumber">82</context>
         </context-group>
         <note priority="1" from="description">Add some tags to create your tag cloud</note>
-        <target>Adicione algumas tags para criar sua nuvem de tags</target>
+        <target>Añada algunas etiquetas para crear su nube de etiquetas</target>
       </trans-unit>
       <trans-unit id="5944812089887969249" datatype="html">
         <source>Groups</source>
@@ -2074,7 +2074,7 @@ of
           <context context-type="sourcefile">src/app/modules/dashboard-async/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">77</context>
         </context-group>
-        <target>Uma contagem de todos os comentários em arquivos que você adicionou</target>
+        <target>Un recuento de todos los comentarios en los archivos que ha añadido</target>
       </trans-unit>
       <trans-unit id="1257856098161850623" datatype="html">
         <source>collaborators</source>
@@ -2090,7 +2090,7 @@ of
           <context context-type="sourcefile">src/app/modules/dashboard-async/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">83</context>
         </context-group>
-        <target>Uma contagem de usuários com os quais você colabora</target>
+        <target>Un recuento de los usuarios con los que colabora</target>
       </trans-unit>
       <trans-unit id="6335556699334401620" datatype="html">
         <source>Shares</source>
@@ -2098,7 +2098,7 @@ of
           <context context-type="sourcefile">src/app/modules/dashboard-async/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">88</context>
         </context-group>
-        <target>Compartilhamentos</target>
+        <target>Elementos compartidos</target>
       </trans-unit>
       <trans-unit id="6889473896134264260" datatype="html">
         <source>files</source>
@@ -2114,7 +2114,7 @@ of
           <context context-type="sourcefile">src/app/modules/dashboard-async/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">94</context>
         </context-group>
-        <target>Uma contagem de todos os arquivos de sua propriedade que são compartilhados com outros usuários</target>
+        <target>Un recuento de todos los archivos de su propiedad que se comparten con otros usuarios</target>
       </trans-unit>
       <trans-unit id="3037543638839191476" datatype="html">
         <source>folders</source>
@@ -2130,7 +2130,7 @@ of
           <context context-type="sourcefile">src/app/modules/dashboard-async/dashboard/dashboard.component.ts</context>
           <context context-type="linenumber">100</context>
         </context-group>
-        <target>Uma contagem de todas as pastas de sua propriedade que são compartilhadas com outros usuários</target>
+        <target>Un recuento de todas las carpetas de su propiedad que se comparten con otros usuarios</target>
       </trans-unit>
       <trans-unit id="876358816371969263" datatype="html">
         <source>Preparing Download</source>
@@ -2139,7 +2139,7 @@ of
           <context context-type="linenumber">2</context>
         </context-group>
         <note priority="1" from="description">Preparing Download</note>
-        <target>Preparando o download</target>
+        <target>Preparando la descarga</target>
       </trans-unit>
       <trans-unit id="3553713758938401936" datatype="html">
         <source>Could not download the selected files.</source>
@@ -2147,7 +2147,7 @@ of
           <context context-type="sourcefile">src/app/modules/download-integrate/download-registration.service.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target>Não foi possível baixar os arquivos selecionados.</target>
+        <target>No se han podido descargar los archivos seleccionados.</target>
       </trans-unit>
       <trans-unit id="2079417424686701333" datatype="html">
         <source>Could not create the download archive.</source>
@@ -2155,7 +2155,7 @@ of
           <context context-type="sourcefile">src/app/modules/download-integrate/download-registration.service.ts</context>
           <context context-type="linenumber">68</context>
         </context-group>
-        <target>Não foi possível criar o arquivo de download.</target>
+        <target>No se pudo crear el archivo de descarga.</target>
       </trans-unit>
       <trans-unit id="2879222583895233351" datatype="html">
         <source>Either this item does not exist or it is not shared to you</source>
@@ -2176,7 +2176,7 @@ of
           <context context-type="sourcefile">src/app/modules/download-integrate/download-registration.service.ts</context>
           <context context-type="linenumber">90</context>
         </context-group>
-        <target>Os arquivos selecionados excedem o tamanho máximo de 2 GB para compactar e baixar. Selecione menos arquivos e tente novamente.</target>
+        <target>Los archivos seleccionados superan el tamaño máximo de 2 GB para la descarga en formato zip. Seleccione menos archivos e inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="5683283491814961142" datatype="html">
         <source>Your files are now downloading.</source>
@@ -2184,7 +2184,7 @@ of
           <context context-type="sourcefile">src/app/modules/download-integrate/download.service.ts</context>
           <context context-type="linenumber">106</context>
         </context-group>
-        <target>Seus arquivos estão sendo baixados.</target>
+        <target>Los archivos se están descargando.</target>
       </trans-unit>
       <trans-unit id="179705586300779942" datatype="html">
         <source>Select Users or Groups to Enable </source>
@@ -2218,7 +2218,7 @@ of
           <context context-type="sourcefile">src/app/modules/features-async/feature-control-user-modal/feature-control-user-modal.component.ts</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target>Digite um nome do usuário, nome do grupo ou endereço de e-mail</target>
+        <target>Ingrese un nombre de usuario, nombre de grupo o dirección de correo electrónico</target>
       </trans-unit>
       <trans-unit id="472335263981446211" datatype="html">
         <source> Number of Licenses </source>
@@ -2259,7 +2259,7 @@ of
           <context context-type="sourcefile">src/app/modules/features-async/features-card/features-card.component.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>o acesso para todos os usuários habilitados será revogado</target>
+        <target>se revocará el acceso de todos los usuarios habilitados</target>
       </trans-unit>
       <trans-unit id="4552757341285152332" datatype="html">
         <source>Enable feature for selective users</source>
@@ -2312,7 +2312,7 @@ of
           <context context-type="linenumber">19</context>
         </context-group>
         <note priority="1" from="description">Features</note>
-        <target>Recursos</target>
+        <target>Características</target>
       </trans-unit>
       <trans-unit id="4890552393958702437" datatype="html">
         <source>Could not update the feature configuration</source>
@@ -2381,7 +2381,7 @@ of
           <context context-type="linenumber">23,24</context>
         </context-group>
         <note priority="1" from="description">Browse</note>
-        <target>Procurar</target>
+        <target>Examinar</target>
       </trans-unit>
       <trans-unit id="7404285152683564503" datatype="html">
         <source> Favorites </source>
@@ -2505,7 +2505,7 @@ of
           <context context-type="sourcefile">src/app/modules/file-picker/file-picker-initial/file-picker-initial.component.ts</context>
           <context context-type="linenumber">45</context>
         </context-group>
-        <target>Restaurar para o item selecionado</target>
+        <target>Restaurar en el elemento seleccionado</target>
       </trans-unit>
       <trans-unit id="5366742863196427232" datatype="html">
         <source>Ownership transfer</source>
@@ -2568,7 +2568,7 @@ of
           <context context-type="sourcefile">src/app/modules/trash-integrate/trash.service.ts</context>
           <context context-type="linenumber">174</context>
         </context-group>
-        <target>Renomear</target>
+        <target>Renombrar</target>
       </trans-unit>
       <trans-unit id="7948858122113389043" datatype="html">
         <source>
@@ -2757,7 +2757,7 @@ of
           <context context-type="sourcefile">src/app/modules/grid-card/grid-card/grid-card.component.ts</context>
           <context context-type="linenumber">185</context>
         </context-group>
-        <target>Erro ao carregar comentários</target>
+        <target>Error al cargar los comentarios</target>
       </trans-unit>
       <trans-unit id="5248298810862745507" datatype="html">
         <source>Commenting on this file has been disabled by the tenant administrator</source>
@@ -2809,7 +2809,7 @@ of
           <context context-type="sourcefile">src/app/modules/trash-async/trash/trash.component.ts</context>
           <context context-type="linenumber">85,84</context>
         </context-group>
-        <target> Item</target>
+        <target> Elemento</target>
       </trans-unit>
       <trans-unit id="5556482008186427195" datatype="html">
         <source> Items</source>
@@ -2833,7 +2833,7 @@ of
           <context context-type="sourcefile">src/app/modules/trash-async/trash/trash.component.ts</context>
           <context context-type="linenumber">86,84</context>
         </context-group>
-        <target> Itens</target>
+        <target> Elementos</target>
       </trans-unit>
       <trans-unit id="1212597756837039597" datatype="html">
         <source>Create New Folder</source>
@@ -2842,7 +2842,7 @@ of
           <context context-type="linenumber">46,50</context>
         </context-group>
         <note priority="1" from="description">Create new folder header</note>
-        <target>Criar nova pasta</target>
+        <target>Crear carpeta nueva</target>
       </trans-unit>
       <trans-unit id="2469269819749513992" datatype="html">
         <source>Enter Folder Name</source>
@@ -2851,7 +2851,7 @@ of
           <context context-type="linenumber">62,63</context>
         </context-group>
         <note priority="1" from="description">Folder name placeholder</note>
-        <target>Digitar nome da pasta</target>
+        <target>Ingresar nombre de carpeta</target>
       </trans-unit>
       <trans-unit id="2221072532366148651" datatype="html">
         <source> The filename exceeds the maximum allowable length </source>
@@ -2898,7 +2898,7 @@ of
           <context context-type="linenumber">15</context>
         </context-group>
         <note priority="1" from="description">Audit history of</note>
-        <target>Histórico de auditoria de</target>
+        <target>Historial de auditoría de</target>
       </trans-unit>
       <trans-unit id="7529920822483205122" datatype="html">
         <source>
@@ -2933,7 +2933,7 @@ of
           <context context-type="linenumber">54</context>
         </context-group>
         <note priority="1" from="description">When</note>
-        <target>Quando</target>
+        <target>Cuándo</target>
       </trans-unit>
       <trans-unit id="5675063409442555682" datatype="html">
         <source>No Audit History</source>
@@ -2942,7 +2942,7 @@ of
           <context context-type="linenumber">97</context>
         </context-group>
         <note priority="1" from="description">No Audit History</note>
-        <target>Sem histórico de auditoria</target>
+        <target>No hay historial de auditorías</target>
       </trans-unit>
       <trans-unit id="1883097190499162879" datatype="html">
         <source> Delete Confirmation </source>
@@ -2988,7 +2988,7 @@ of
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/delete-trash-modal/delete-trash-modal.component.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target>Tem certeza de que deseja excluir estes itens?</target>
+        <target>¿Está seguro de que desea eliminar estos elementos?</target>
       </trans-unit>
       <trans-unit id="7643915172987858015" datatype="html">
         <source>
@@ -3015,7 +3015,7 @@ of
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/delete-trash-modal/delete-trash-modal.component.ts</context>
           <context context-type="linenumber">61</context>
         </context-group>
-        <target>Tem certeza de que deseja excluir este item?</target>
+        <target>¿Está seguro de que desea eliminar este elemento?</target>
       </trans-unit>
       <trans-unit id="1578350904623356078" datatype="html">
         <source>Items deleted successfully!</source>
@@ -3023,7 +3023,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-async/files/menu-actions/resource-delete-modal/resource-delete-modal.component.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>Itens excluídos com êxito!</target>
+        <target>¡Elementos eliminados correctamente!</target>
       </trans-unit>
       <trans-unit id="2130878797140352963" datatype="html">
         <source>Item deleted successfully!</source>
@@ -3031,7 +3031,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-async/files/menu-actions/resource-delete-modal/resource-delete-modal.component.ts</context>
           <context context-type="linenumber">79</context>
         </context-group>
-        <target>Item excluído com êxito!</target>
+        <target>¡Elemento eliminado correctamente!</target>
       </trans-unit>
       <trans-unit id="8607280278684331816" datatype="html">
         <source>There was an error deleting one or more of your items:</source>
@@ -3039,7 +3039,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-async/files/menu-actions/resource-delete-modal/resource-delete-modal.component.ts</context>
           <context context-type="linenumber">104</context>
         </context-group>
-        <target>Ocorreu um erro ao excluir um ou mais de seus itens:</target>
+        <target>Se produjo un error al eliminar uno o más de los elementos:</target>
       </trans-unit>
       <trans-unit id="1737753151350322492" datatype="html">
         <source>
@@ -3265,7 +3265,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">270,269</context>
         </context-group>
-        <target>Sim</target>
+        <target>Sí</target>
       </trans-unit>
       <trans-unit id="4638499293367625631" datatype="html">
         <source> Shared By </source>
@@ -3333,7 +3333,7 @@ of
           <context context-type="linenumber">123,125</context>
         </context-group>
         <note priority="1" from="description">Nothing here yet</note>
-        <target>Nada aqui ainda</target>
+        <target>Todavía no hay nada aquí</target>
       </trans-unit>
       <trans-unit id="199342524469782460" datatype="html">
         <source>Leave share confirmation</source>
@@ -3357,7 +3357,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">215</context>
         </context-group>
-        <target>Tem certeza de que deseja sair do compartilhamento?</target>
+        <target>¿Está seguro de que desea dejar el elemento compartido?</target>
       </trans-unit>
       <trans-unit id="6074139753015088486" datatype="html">
         <source> Expiring On </source>
@@ -3391,7 +3391,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-async/share/shared-links/shared-links.component.ts</context>
           <context context-type="linenumber">77</context>
         </context-group>
-        <target>Tem certeza de que deseja revogar o link?</target>
+        <target>¿Está seguro de que desea revocar el enlace?</target>
       </trans-unit>
       <trans-unit id="8536598496609990116" datatype="html">
         <source>Are you sure you want to unshare?</source>
@@ -3399,7 +3399,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-async/share/shared-outgoing/shared-outgoing.component.ts</context>
           <context context-type="linenumber">75</context>
         </context-group>
-        <target>Tem certeza de que deseja cancelar o compartilhamento?</target>
+        <target>¿Está seguro de que desea dejar de compartir?</target>
       </trans-unit>
       <trans-unit id="2196227823434713374" datatype="html">
         <source>There was a problem with the signature request.</source>
@@ -3440,7 +3440,7 @@ of
           <context context-type="linenumber">148,147</context>
         </context-group>
         <note priority="1" from="description">Files sidebar link text</note>
-        <target>Arquivos</target>
+        <target>Archivos</target>
       </trans-unit>
       <trans-unit id="5306473977542913614" datatype="html">
         <source>Activity</source>
@@ -3449,7 +3449,7 @@ of
           <context context-type="linenumber">154,153</context>
         </context-group>
         <note priority="1" from="description">Files sidebar link text</note>
-        <target>Atividade</target>
+        <target>Actividad</target>
       </trans-unit>
       <trans-unit id="4085930761302974863" datatype="html">
         <source>Favorites</source>
@@ -3467,7 +3467,7 @@ of
           <context context-type="linenumber">261,260</context>
         </context-group>
         <note priority="1" from="description">Upload button text</note>
-        <target>Fazer upload</target>
+        <target>Cargar</target>
       </trans-unit>
       <trans-unit id="6272889378364553386" datatype="html">
         <source>New Folder</source>
@@ -3476,7 +3476,7 @@ of
           <context context-type="linenumber">276,275</context>
         </context-group>
         <note priority="1" from="description">New folder button text</note>
-        <target>Nova pasta</target>
+        <target>Carpeta nueva</target>
       </trans-unit>
       <trans-unit id="7120175093040847236" datatype="html">
         <source>Move/Copy</source>
@@ -3504,7 +3504,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">204,203</context>
         </context-group>
-        <target>Sair do compartilhamento</target>
+        <target>Dejar de compartir</target>
       </trans-unit>
       <trans-unit id="5870111284413235966" datatype="html">
         <source>Are you sure you want to leave these shares?</source>
@@ -3512,7 +3512,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">212</context>
         </context-group>
-        <target>Tem certeza de que deseja sair desses compartilhamentos?</target>
+        <target>¿Está seguro de que desea dejar estos elementos compartidos?</target>
       </trans-unit>
       <trans-unit id="7871888642771778625" datatype="html">
         <source>
@@ -3532,7 +3532,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">263</context>
         </context-group>
-        <target>Tem certeza de que deseja cancelar o compartilhamento deste item?</target>
+        <target>¿Está seguro de que desea dejar de compartir este elemento?</target>
       </trans-unit>
       <trans-unit id="8491253861194359861" datatype="html">
         <source>Add Draft</source>
@@ -3540,7 +3540,7 @@ of
           <context context-type="sourcefile">src/app/modules/files-integrate/resource-list-menu-registration.service.ts</context>
           <context context-type="linenumber">296,295</context>
         </context-group>
-        <target>Adicionar rascunho</target>
+        <target>Añadir borrador</target>
       </trans-unit>
       <trans-unit id="218403386307979629" datatype="html">
         <source>Metadata</source>
@@ -3552,7 +3552,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-integrate/metadata-registration.service.ts</context>
           <context context-type="linenumber">23,22</context>
         </context-group>
-        <target>Metadados</target>
+        <target>Metadatos</target>
       </trans-unit>
       <trans-unit id="2508956784505652529" datatype="html">
         <source>Send For Signature</source>
@@ -3720,7 +3720,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/groups/groups.component.ts</context>
           <context context-type="linenumber">25</context>
         </context-group>
-        <target>Pesquisar grupos</target>
+        <target>Buscar grupos</target>
       </trans-unit>
       <trans-unit id="6341772921473084017" datatype="html">
         <source>(You)</source>
@@ -3736,7 +3736,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal-accordion-table/group-modal-accordion-table.component.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target>Inscrição pendente</target>
+        <target>Registro pendiente</target>
       </trans-unit>
       <trans-unit id="3947575371809635944" datatype="html">
         <source>Revoke as admin</source>
@@ -3752,7 +3752,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal-accordion-table/group-modal-accordion-table.component.ts</context>
           <context context-type="linenumber">49</context>
         </context-group>
-        <target>Remover</target>
+        <target>Eliminar</target>
       </trans-unit>
       <trans-unit id="3894258976208571572" datatype="html">
         <source>Group Info</source>
@@ -3761,7 +3761,7 @@ of
           <context context-type="linenumber">20,22</context>
         </context-group>
         <note priority="1" from="description">Group Info</note>
-        <target>Informação do grupo</target>
+        <target>Información del grupo</target>
       </trans-unit>
       <trans-unit id="7486429620377910405" datatype="html">
         <source>Group Shares</source>
@@ -3770,7 +3770,7 @@ of
           <context context-type="linenumber">28,30</context>
         </context-group>
         <note priority="1" from="description">Group Shares</note>
-        <target>Compartilhamentos do grupo</target>
+        <target>Elementos compartidos del grupo</target>
       </trans-unit>
       <trans-unit id="7590378688120003601" datatype="html">
         <source>
@@ -3819,7 +3819,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">77,76</context>
         </context-group>
-        <target>Nome do grupo</target>
+        <target>Nombre del grupo</target>
       </trans-unit>
       <trans-unit id="7776378299347524268" datatype="html">
         <source>Enter Group Name</source>
@@ -3827,7 +3827,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>Digitar o nome do grupo</target>
+        <target>Ingresar nombre del grupo</target>
       </trans-unit>
       <trans-unit id="4902817035128594900" datatype="html">
         <source>Description</source>
@@ -3839,7 +3839,7 @@ of
           <context context-type="sourcefile">src/app/modules/ui/profile-card/profile-card.component.ts</context>
           <context context-type="linenumber">48</context>
         </context-group>
-        <target>Descrição</target>
+        <target>Descripción</target>
       </trans-unit>
       <trans-unit id="6667653019903644836" datatype="html">
         <source>Enter Group Description</source>
@@ -3847,7 +3847,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">82</context>
         </context-group>
-        <target>Digitar descrição do grupo</target>
+        <target>Ingresar descripción del grupo</target>
       </trans-unit>
       <trans-unit id="8772762898858349790" datatype="html">
         <source>Add member by user name or email address</source>
@@ -3859,7 +3859,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">86</context>
         </context-group>
-        <target>Adicionar membro por nome de us. ou endereço e-mail</target>
+        <target>Añadir miembro por nombre de usu. o dirección cor.</target>
       </trans-unit>
       <trans-unit id="2501969335659826225" datatype="html">
         <source>This field is required</source>
@@ -3895,7 +3895,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">94,90</context>
         </context-group>
-        <target>O nome do grupo é muito longo (mais de 255 caracteres)</target>
+        <target>El nombre del grupo es demasiado largo (tiene más de 255 caracteres)</target>
       </trans-unit>
       <trans-unit id="7672651228534630017" datatype="html">
         <source>Group description is too long (more than 255 characters)</source>
@@ -3903,7 +3903,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">95,90</context>
         </context-group>
-        <target>A descrição do grupo é muito longa (mais de 255 caracteres)</target>
+        <target>La descripción del grupo es demasiado larga (tiene más de 255 caracteres)</target>
       </trans-unit>
       <trans-unit id="3407716988740617589" datatype="html">
         <source>Special characters are not allowed</source>
@@ -3927,7 +3927,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">98</context>
         </context-group>
-        <target>O nome do grupo deve ser único</target>
+        <target>El nombre del grupo debe ser particular</target>
       </trans-unit>
       <trans-unit id="6115575590350155562" datatype="html">
         <source>Group Admin(s)</source>
@@ -3935,7 +3935,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">284,282</context>
         </context-group>
-        <target>Administrador(es) do grupo</target>
+        <target>Administrador(es) del grupo</target>
       </trans-unit>
       <trans-unit id="9086691296106045671" datatype="html">
         <source>Group Members</source>
@@ -3943,7 +3943,7 @@ of
           <context context-type="sourcefile">src/app/modules/groups-async/menu-action/group-modal/group-modal.component.ts</context>
           <context context-type="linenumber">291,289</context>
         </context-group>
-        <target>Membros do grupo</target>
+        <target>Miembros del grupo</target>
       </trans-unit>
       <trans-unit id="414691964820530476" datatype="html">
         <source>Pending Members</source>
@@ -3960,7 +3960,7 @@ of
           <context context-type="linenumber">43,42</context>
         </context-group>
         <note priority="1" from="description">New Group button text</note>
-        <target>Novo grupo</target>
+        <target>Grupo nuevo</target>
       </trans-unit>
       <trans-unit id="7585826646011739428" datatype="html">
         <source>Edit</source>
@@ -3981,7 +3981,7 @@ of
           <context context-type="linenumber">27,28</context>
         </context-group>
         <note priority="1" from="description">UserActivity</note>
-        <target>Atividade de usuários</target>
+        <target>Actividad del usuario</target>
       </trans-unit>
       <trans-unit id="6176036878599203347" datatype="html">
         <source>Date Range Filter</source>
@@ -3998,7 +3998,7 @@ of
           <context context-type="linenumber">16</context>
         </context-group>
         <note priority="1" from="description">Users sidebar link text</note>
-        <target>Percepções</target>
+        <target>Observaciones</target>
       </trans-unit>
       <trans-unit id="2859002440530757255" datatype="html">
         <source>No data available for the selected date range</source>
@@ -4031,7 +4031,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/create-metadata-form/create-metadata-form.component.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target>O valor inserido deve ser um número válido e não pode ter mais de 16 caracteres.</target>
+        <target>El valor ingresado debe ser un número válido y no puede tener más de 16 caracteres.</target>
       </trans-unit>
       <trans-unit id="2992774680769130618" datatype="html">
         <source>
@@ -4283,7 +4283,7 @@ of
           <context context-type="linenumber">12</context>
         </context-group>
         <note priority="1" from="description">Default</note>
-        <target>Padrão</target>
+        <target>Predeterminados</target>
       </trans-unit>
       <trans-unit id="990935132681520442" datatype="html">
         <source> Profile Name </source>
@@ -4334,7 +4334,7 @@ of
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
-        <target>Criar</target>
+        <target>Crear</target>
       </trans-unit>
       <trans-unit id="3249513483374643425" datatype="html">
         <source>Add</source>
@@ -4346,7 +4346,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">224</context>
         </context-group>
-        <target>Adicionar</target>
+        <target>Añadir</target>
       </trans-unit>
       <trans-unit id="8204176479746810612" datatype="html">
         <source>Active</source>
@@ -4358,7 +4358,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata/metadata.component.ts</context>
           <context context-type="linenumber">205,204</context>
         </context-group>
-        <target>Ativo</target>
+        <target>Activos</target>
       </trans-unit>
       <trans-unit id="136787213137738434" datatype="html">
         <source>Global Profile</source>
@@ -4382,7 +4382,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>Defina o perfil atual como ativo ou desativado.</target>
+        <target>Establezca el perfil actual como Activo o Deshabilitado.</target>
       </trans-unit>
       <trans-unit id="6477875150166221362" datatype="html">
         <source>Set the current Profile to be globally applied for all new files uploaded to OpenText Core Share or disable it as the Global Profile.</source>
@@ -4390,7 +4390,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target>Defina o perfil atual para ser aplicado globalmente para todos os novos arquivos carregados no OpenText Core Share ou desative-o como o perfil global.</target>
+        <target>Establezca el perfil actual para que se aplique de forma global a todos los nuevos archivos cargados en OpenText Core Share o desactívelo como perfil global.</target>
       </trans-unit>
       <trans-unit id="6083627220114856142" datatype="html">
         <source>Please fill out this field.</source>
@@ -4398,7 +4398,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">56</context>
         </context-group>
-        <target>Por favor, preencha este campo.</target>
+        <target>Rellene este campo.</target>
       </trans-unit>
       <trans-unit id="2956500387283745770" datatype="html">
         <source>Create Metadata Profile</source>
@@ -4410,7 +4410,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata.service.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target>Criar perfil de metadados</target>
+        <target>Crear perfil de metadatos</target>
       </trans-unit>
       <trans-unit id="5361309469122809501" datatype="html">
         <source>Edit Metadata Profile</source>
@@ -4418,7 +4418,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">179,178</context>
         </context-group>
-        <target>Editar perfil de metadados</target>
+        <target>Editar perfil de metadatos</target>
       </trans-unit>
       <trans-unit id="3768927257183755959" datatype="html">
         <source>Save</source>
@@ -4426,7 +4426,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">180</context>
         </context-group>
-        <target>Salvar</target>
+        <target>Guardar</target>
       </trans-unit>
       <trans-unit id="7110831533639643948" datatype="html">
         <source>Clone Metadata Profile</source>
@@ -4434,7 +4434,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">186,185</context>
         </context-group>
-        <target>Clonar perfil de metadados</target>
+        <target>Clonar perfil de metadatos</target>
       </trans-unit>
       <trans-unit id="4021752662928002901" datatype="html">
         <source>Update</source>
@@ -4442,7 +4442,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata-profile-modal/metadata-profile-modal.component.ts</context>
           <context context-type="linenumber">222</context>
         </context-group>
-        <target>Atualizar</target>
+        <target>Actualizar</target>
       </trans-unit>
       <trans-unit id="801092957405216476" datatype="html">
         <source> Profile</source>
@@ -4495,7 +4495,7 @@ of
           <context context-type="linenumber">22,23</context>
         </context-group>
         <note priority="1" from="description">Date Added</note>
-        <target>Data adicionada</target>
+        <target>Fecha añadido</target>
       </trans-unit>
       <trans-unit id="6047870808338412656" datatype="html">
         <source>
@@ -4518,7 +4518,7 @@ of
           <context context-type="linenumber">66,67</context>
         </context-group>
         <note priority="1" from="description">Sort by State header</note>
-        <target>Status</target>
+        <target>Estado</target>
       </trans-unit>
       <trans-unit id="1145598214058897137" datatype="html">
         <source>All Profiles</source>
@@ -4526,7 +4526,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata/metadata.component.ts</context>
           <context context-type="linenumber">193,192</context>
         </context-group>
-        <target>Todos os perfis</target>
+        <target>Todos los perfiles</target>
       </trans-unit>
       <trans-unit id="5769292297914455214" datatype="html">
         <source>Disabled</source>
@@ -4534,7 +4534,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-async/metadata/metadata.component.ts</context>
           <context context-type="linenumber">217,216</context>
         </context-group>
-        <target>Desabilitado</target>
+        <target>Deshabilitado</target>
       </trans-unit>
       <trans-unit id="487430330178146050" datatype="html">
         <source>
@@ -4597,7 +4597,7 @@ of
           <context context-type="linenumber">107,106</context>
         </context-group>
         <note priority="1" from="description">New Profile button text</note>
-        <target>Novo</target>
+        <target>Nuevos</target>
       </trans-unit>
       <trans-unit id="5834780181397311898" datatype="html">
         <source>Clone</source>
@@ -4613,7 +4613,7 @@ of
           <context context-type="sourcefile">src/app/modules/metadata-integrate/metadata-registration.service.ts</context>
           <context context-type="linenumber">175</context>
         </context-group>
-        <target>Você inseriu um nome de perfil que já existe. Renomeie este perfil se desejar salvá-lo.</target>
+        <target>Ha ingresado un nombre de perfil que ya existe. Cambie el nombre de este perfil si desea guardarlo.</target>
       </trans-unit>
       <trans-unit id="8569100787116269763" datatype="html">
         <source>unexpected</source>
@@ -4716,7 +4716,7 @@ of
           <context context-type="sourcefile">src/app/modules/reports-async/user-activity-report/user-activity-report.component.ts</context>
           <context context-type="linenumber">41</context>
         </context-group>
-        <target>Relatório de atividades</target>
+        <target>Informe de actividades</target>
       </trans-unit>
       <trans-unit id="1868606282505332204" datatype="html">
         <source>Reports</source>
@@ -4725,7 +4725,7 @@ of
           <context context-type="linenumber">17</context>
         </context-group>
         <note priority="1" from="description">Users sidebar link text</note>
-        <target>Relatórios</target>
+        <target>Informes</target>
       </trans-unit>
       <trans-unit id="6857887391866432694" datatype="html">
         <source> No search results
@@ -4775,7 +4775,7 @@ of
           <context context-type="sourcefile">src/app/modules/search-async/search-grid-view/search-grid-view.component.ts</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target>Listar exibições</target>
+        <target>Vista de lista</target>
       </trans-unit>
       <trans-unit id="2265831591743946473" datatype="html">
         <source>Thumbnail view</source>
@@ -4783,7 +4783,7 @@ of
           <context context-type="sourcefile">src/app/modules/search-async/search-list-table/search-list-table.component.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>Visualização em miniatura</target>
+        <target>Vista de miniaturas</target>
       </trans-unit>
       <trans-unit id="6238291467288576076" datatype="html">
         <source>Contains</source>
@@ -4819,7 +4819,7 @@ of
           <context context-type="sourcefile">src/app/modules/search/search/search.component.html</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>Localização</target>
+        <target>Ubicación</target>
       </trans-unit>
       <trans-unit id="4580988005648117665" datatype="html">
         <source>Search</source>
@@ -4835,7 +4835,7 @@ of
           <context context-type="sourcefile">src/app/modules/ui/search-within-filter/search-within-filter.component.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <target>Pesquisar</target>
+        <target>Buscar</target>
       </trans-unit>
       <trans-unit id="3412098267789988617" datatype="html">
         <source>More Search Options</source>
@@ -4867,7 +4867,7 @@ of
           <context context-type="sourcefile">src/app/modules/search/search-within-filter.service.ts</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <target>Tudo</target>
+        <target>Todo</target>
       </trans-unit>
       <trans-unit id="9213582549372604352" datatype="html">
         <source>File Contents</source>
@@ -4891,7 +4891,7 @@ of
           <context context-type="sourcefile">src/app/modules/search/search-within-filter.service.ts</context>
           <context context-type="linenumber">14</context>
         </context-group>
-        <target>Comentários</target>
+        <target>Comentarios</target>
       </trans-unit>
       <trans-unit id="2193759482978702715" datatype="html">
         <source>Only search current folder</source>
@@ -4899,7 +4899,7 @@ of
           <context context-type="sourcefile">src/app/modules/search/search/search.component.ts</context>
           <context context-type="linenumber">76</context>
         </context-group>
-        <target>Pesquisar apenas a pasta atual</target>
+        <target>Buscar solo en la carpeta actual</target>
       </trans-unit>
       <trans-unit id="6947184003181278613" datatype="html">
         <source> mos </source>
@@ -4916,7 +4916,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/data-privacy/data-privacy.component.ts</context>
           <context context-type="linenumber">28</context>
         </context-group>
-        <target>Privacidade de dados</target>
+        <target>Privacidad de los datos</target>
       </trans-unit>
       <trans-unit id="6851196237879555786" datatype="html">
         <source>Enable confirmation</source>
@@ -4940,7 +4940,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/data-privacy/data-privacy.component.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
-        <target>Você será notificado sobre todas as contas inativas após o período de tempo especificado para desativar e excluir.</target>
+        <target>Se le notificará de todas las cuentas inactivas después del periodo especificado para deshabilitarlas y eliminarlas.</target>
       </trans-unit>
       <trans-unit id="8127320967293857566" datatype="html">
         <source>Disable/Suspend Inactive Accounts</source>
@@ -4948,7 +4948,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/data-privacy/data-privacy.component.ts</context>
           <context context-type="linenumber">64</context>
         </context-group>
-        <target>Desativar/suspender contas inativas</target>
+        <target>Deshabilitar/suspender las cuentas inactivas</target>
       </trans-unit>
       <trans-unit id="8736427022048068293" datatype="html">
         <source>Inactivity Time Period</source>
@@ -4956,7 +4956,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/data-privacy/data-privacy.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-        <target>Período de inatividade</target>
+        <target>Periodo de inactividad</target>
       </trans-unit>
       <trans-unit id="6224639545454366285" datatype="html">
         <source>
@@ -5015,7 +5015,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/desktop-sync-policy/desktop-sync-policy.component.ts</context>
           <context context-type="linenumber">23</context>
         </context-group>
-        <target>Política do Desktop Sync</target>
+        <target>Política de sincronización de escritorio</target>
       </trans-unit>
       <trans-unit id="5359191785371575757" datatype="html">
         <source>Enable Desktop Sync</source>
@@ -5023,7 +5023,7 @@ of
           <context context-type="sourcefile">src/app/modules/security-async/desktop-sync-policy/desktop-sync-policy.component.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
-        <target>Habilitar Desktop Sync</target>
+        <target>Habilitar la sincronización de escritorio</target>
       </trans-unit>
       <trans-unit id="9150578040125434227" datatype="html">
         <source>Error occurred while updating the tenant settings</source>
@@ -5373,7 +5373,7 @@ of
           <context context-type="sourcefile">src/app/modules/ui/directives/copy-to-clipboard.directive.ts</context>
           <context context-type="linenumber">19,18</context>
         </context-group>
-        <target>Copiado com sucesso para a sua área de transferência!</target>
+        <target>¡Se ha copiado en el portapapeles correctamente!</target>
       </trans-unit>
       <trans-unit id="5037437391296624618" datatype="html">
         <source>Information</source>
@@ -5452,7 +5452,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/password-policy/password-policy.component.ts</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target>Política de senha</target>
+        <target>Política de contraseñas</target>
       </trans-unit>
       <trans-unit id="2003000593066996472" datatype="html">
         <source>Must be a number between 6 to 500</source>
@@ -5480,7 +5480,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/password-policy/password-policy.component.ts</context>
           <context context-type="linenumber">59</context>
         </context-group>
-        <target>Requer um mínimo de 1 de cada: número, símbolo, letras maiúsculas e minúsculas.</target>
+        <target>Se requiere un mínimo de: 1número, 1 símbolo, 1 letra mayúscula y 1 minúscula.</target>
       </trans-unit>
       <trans-unit id="2400731642631583552" datatype="html">
         <source>Enable Complex Password</source>
@@ -5700,7 +5700,7 @@ Affected Service User: ""
           <context context-type="linenumber">19</context>
         </context-group>
         <note priority="1" from="description">Security</note>
-        <target>Segurança</target>
+        <target>Seguridad</target>
       </trans-unit>
       <trans-unit id="2929456493817137924" datatype="html">
         <source>Session Policy</source>
@@ -5708,7 +5708,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/session-policy/session-policy.component.ts</context>
           <context context-type="linenumber">25</context>
         </context-group>
-        <target>Política de sessão</target>
+        <target>Política de sesiones</target>
       </trans-unit>
       <trans-unit id="537022937435161177" datatype="html">
         <source>Session Timeout</source>
@@ -5740,7 +5740,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target>Política de compartilhamento</target>
+        <target>Política de uso compartido</target>
       </trans-unit>
       <trans-unit id="5305317986905777300" datatype="html">
         <source>Disable confirmation</source>
@@ -5764,7 +5764,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">61</context>
         </context-group>
-        <target>Habilitar compartilhamento externo</target>
+        <target>Habilitar el uso compartido externo</target>
       </trans-unit>
       <trans-unit id="739396913317465619" datatype="html">
         <source>Access External Content</source>
@@ -5772,7 +5772,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-        <target>Acessar conteúdo externo</target>
+        <target>Acceder a contenido externo</target>
       </trans-unit>
       <trans-unit id="7537645068471625159" datatype="html">
         <source>Mandatory Share Expiration</source>
@@ -5788,7 +5788,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">85</context>
         </context-group>
-        <target>Definir expiração</target>
+        <target>Establecer el vencimiento</target>
       </trans-unit>
       <trans-unit id="2403693042299280201" datatype="html">
         <source>Enable Public Links</source>
@@ -5796,7 +5796,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">93</context>
         </context-group>
-        <target>Habilitar links públicos</target>
+        <target>Habilitar enlaces públicos</target>
       </trans-unit>
       <trans-unit id="1601935874507766129" datatype="html">
         <source>Mandatory Expiration</source>
@@ -5804,7 +5804,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">101</context>
         </context-group>
-        <target>Vencimento obrigatório</target>
+        <target>Vencimiento obligatorio</target>
       </trans-unit>
       <trans-unit id="7104905967461303323" datatype="html">
         <source>Mandatory Passwords</source>
@@ -5812,7 +5812,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">111</context>
         </context-group>
-        <target>Senhas obrigatórias</target>
+        <target>Contraseñas obligatorias</target>
       </trans-unit>
       <trans-unit id="6194035379803869861" datatype="html">
         <source>Require Complex Passwords</source>
@@ -5820,7 +5820,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/sharing-policy/sharing-policy.component.ts</context>
           <context context-type="linenumber">121</context>
         </context-group>
-        <target>Exigir senhas complexas</target>
+        <target>Se requieren contraseñas complejas</target>
       </trans-unit>
       <trans-unit id="5931249202820776396" datatype="html">
         <source>Successfully enabled external sharing.</source>
@@ -6136,7 +6136,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">59</context>
         </context-group>
-        <target>Alterar</target>
+        <target>Cambiar</target>
       </trans-unit>
       <trans-unit id="5391199580642521277" datatype="html">
         <source>Select provider</source>
@@ -6152,7 +6152,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target>Permitir que os usuários ignorem a autenticação de dois fatores por e-mail.</target>
+        <target>Permitir que los usuarios omitan la autenticación en dos fases por correo electrónico.</target>
       </trans-unit>
       <trans-unit id="6348378429475239545" datatype="html">
         <source>Two Factor Authentication</source>
@@ -6168,7 +6168,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">64</context>
         </context-group>
-        <target>Mude seu provedor de autenticação de dois fatores. Observação: apenas contas de nível empresarial do OpenText Core Share podem mudar de provedor.</target>
+        <target>Cambie su proveedor de autenticación en dos fases. NOTA: Solo las cuentas de OpenText Core Share de nivel empresarial pueden cambiar de proveedor.</target>
       </trans-unit>
       <trans-unit id="8990267215453054715" datatype="html">
         <source>Enable 2FA for Users</source>
@@ -6176,7 +6176,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">120</context>
         </context-group>
-        <target>Habilitar 2FA para usuários</target>
+        <target>Habilitar A2F para usuarios</target>
       </trans-unit>
       <trans-unit id="7977582867497139254" datatype="html">
         <source>Enable 2FA for SSO users</source>
@@ -6184,7 +6184,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">126</context>
         </context-group>
-        <target>Habilitar 2FA para usuários SSO</target>
+        <target>Habilitar A2F para usuarios con SSO</target>
       </trans-unit>
       <trans-unit id="6182999323203954447" datatype="html">
         <source>Allow Remember Device</source>
@@ -6192,7 +6192,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">132</context>
         </context-group>
-        <target>Permitir dispositivo para lembrar</target>
+        <target>Permitir que se recuerde el dispositivo</target>
       </trans-unit>
       <trans-unit id="7416449410763130818" datatype="html">
         <source>Allow skipping 2FA</source>
@@ -6200,7 +6200,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/security-async/two-factor-authentication/two-factor-authentication.component.ts</context>
           <context context-type="linenumber">138</context>
         </context-group>
-        <target>Permitir pular 2FA</target>
+        <target>Permitir que se omita la A2F</target>
       </trans-unit>
       <trans-unit id="9143664573738837111" datatype="html">
         <source>Enable Weblink object view</source>
@@ -6261,7 +6261,7 @@ Affected Service User: ""
           <context context-type="linenumber">11</context>
         </context-group>
         <note priority="1" from="description">Enterprise Directory Sync Software</note>
-        <target>Software de sincronização do Enterprise Directory</target>
+        <target>Software de sincronización de Enterprise Directory</target>
       </trans-unit>
       <trans-unit id="2167927340380575582" datatype="html">
         <source> Download the Enterprise Directory sync software. Your IT Department will have to install and configure this for your organization. </source>
@@ -6297,7 +6297,7 @@ Affected Service User: ""
           <context context-type="linenumber">34</context>
         </context-group>
         <note priority="1" from="description">Directory Sync Installation Documents</note>
-        <target>Documentos de instalação de sincronização do Enterprise Directory</target>
+        <target>Documentos de instalación para la sincronización de Enterprise Directory</target>
       </trans-unit>
       <trans-unit id="8866255632162481738" datatype="html">
         <source> View instructions on how to set up sync. You may need assistance from your IT Department for setup and configuration. </source>
@@ -6378,7 +6378,7 @@ Affected Service User: ""
           <context context-type="linenumber">112</context>
         </context-group>
         <note priority="1" from="description">OR</note>
-        <target>OR</target>
+        <target>O</target>
       </trans-unit>
       <trans-unit id="5478121364779850827" datatype="html">
         <source> Reset </source>
@@ -6423,7 +6423,7 @@ Affected Service User: ""
           <context context-type="linenumber">201</context>
         </context-group>
         <note priority="1" from="description">Provisioning</note>
-        <target>Provisionamento</target>
+        <target>Aprovisionamiento</target>
       </trans-unit>
       <trans-unit id="4901662737738472701" datatype="html">
         <source>Directory Services URL</source>
@@ -6432,7 +6432,7 @@ Affected Service User: ""
           <context context-type="linenumber">204</context>
         </context-group>
         <note priority="1" from="description">Directory Services URL</note>
-        <target>URL do Directory Services</target>
+        <target>URL de Directory Services</target>
       </trans-unit>
       <trans-unit id="8470880961953999650" datatype="html">
         <source> Directory Services Partition </source>
@@ -6450,7 +6450,7 @@ Affected Service User: ""
           <context context-type="linenumber">218</context>
         </context-group>
         <note priority="1" from="description">Directory Services Username</note>
-        <target>Nome de usuário do Directory Services</target>
+        <target>Nombre de usuario de Directory Services</target>
       </trans-unit>
       <trans-unit id="3326789563671433871" datatype="html">
         <source> Change Directory Services Password </source>
@@ -6467,7 +6467,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/off-cloud/off-cloud.component.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <target>Digitar URL</target>
+        <target>Ingresar URL</target>
       </trans-unit>
       <trans-unit id="6352894476849651466" datatype="html">
         <source>Upload XML</source>
@@ -6475,7 +6475,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/off-cloud/off-cloud.component.ts</context>
           <context context-type="linenumber">29</context>
         </context-group>
-        <target>Upload de XML</target>
+        <target>Cargar XML</target>
       </trans-unit>
       <trans-unit id="8660989337034745690" datatype="html">
         <source>WARNING: </source>
@@ -6493,7 +6493,7 @@ Affected Service User: ""
           <context context-type="linenumber">18</context>
         </context-group>
         <note priority="1" from="description">Enter Password</note>
-        <target>Digitar senha</target>
+        <target>Ingresar contraseña</target>
       </trans-unit>
       <trans-unit id="2977786769790912639" datatype="html">
         <source> Please enter a valid password. </source>
@@ -6511,7 +6511,7 @@ Affected Service User: ""
           <context context-type="linenumber">44</context>
         </context-group>
         <note priority="1" from="description">Retype Password</note>
-        <target>Digitar senha novamente</target>
+        <target>Repita la contraseña</target>
       </trans-unit>
       <trans-unit id="2319657844488624318" datatype="html">
         <source> Passwords do not match. </source>
@@ -6536,7 +6536,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/password-modal/password-modal.component.ts</context>
           <context context-type="linenumber">107</context>
         </context-group>
-        <target>Você está prestes a iniciar o processo de sincronização do Active Directory. O OpenText Core Share requer que você defina uma senha que será usada para sincronizar usuários do seu Active Directory. A senha deve ter no mínimo 12 caracteres e incluir pelo menos um número, símbolo, letra maiúscula e minúscula.</target>
+        <target>Está a punto de iniciar el proceso de sincronización de Active Directory. OpenText Core Share requiere que establezca una contraseña que se utilizará para sincronizar los usuarios de su directorio activo. La contraseña debe tener un mínimo de 12 caracteres e incluir al menos un número, un símbolo, una letra mayúscula y una minúscula.</target>
       </trans-unit>
       <trans-unit id="102408375548589662" datatype="html">
         <source>Update password</source>
@@ -6560,7 +6560,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/password-modal/password-modal.component.ts</context>
           <context context-type="linenumber">127</context>
         </context-group>
-        <target>Senha alterada com sucesso!</target>
+        <target>¡Se ha cambiado la contraseña correctamente!</target>
       </trans-unit>
       <trans-unit id="7420111840794402743" datatype="html">
         <source>Successfully setup Sync!</source>
@@ -6568,7 +6568,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/sso.service.ts</context>
           <context context-type="linenumber">64</context>
         </context-group>
-        <target>Sincronização configurada com sucesso!</target>
+        <target>¡Sincronización configurada correctamente!</target>
       </trans-unit>
       <trans-unit id="3858095203290548907" datatype="html">
         <source>Are you sure you want to reset the off-cloud configuration?</source>
@@ -6652,7 +6652,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/sso-async/sso.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
-        <target>Suporte</target>
+        <target>Soporte</target>
       </trans-unit>
       <trans-unit id="5010027357185097134" datatype="html">
         <source>Core Admin Guide</source>
@@ -6687,7 +6687,7 @@ Affected Service User: ""
           <context context-type="linenumber">16</context>
         </context-group>
         <note priority="1" from="description">IDP Provider</note>
-        <target>Provedor IDP</target>
+        <target>Proveedor de IDP</target>
       </trans-unit>
       <trans-unit id="5190666037294704333" datatype="html">
         <source> Is your IDP provider on-prem (e.g., Active Directory) or in the cloud (e.g., Azure AD)? </source>
@@ -6765,7 +6765,7 @@ Affected Service User: ""
           <context context-type="linenumber">19,20</context>
         </context-group>
         <note priority="1" from="description">Tag placeholder</note>
-        <target>#inserir tag</target>
+        <target>#ingresar etiqueta</target>
       </trans-unit>
       <trans-unit id="3498991617862248379" datatype="html">
         <source>Apply Tags to the Selected Files</source>
@@ -6773,7 +6773,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/tags-async/tags-modal/tags-modal.component.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target>Aplicar tags aos arquivos selecionados</target>
+        <target>Aplicar etiquetas a los archivos seleccionados</target>
       </trans-unit>
       <trans-unit id="7703027786835061980" datatype="html">
         <source>Press "Enter" after each tag, and then click "Apply" to apply all tags.</source>
@@ -6781,7 +6781,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/tags-async/tags-modal/tags-modal.component.ts</context>
           <context context-type="linenumber">21</context>
         </context-group>
-        <target>Pressione "Entrar" após cada tag e clique em "Aplicar" para aplicar todas as tags.</target>
+        <target>Pulse "Ingresar" después de cada etiqueta y, a continuación, haga clic en "Aplicar" para aplicar todas las etiquetas.</target>
       </trans-unit>
       <trans-unit id="2329916649344568947" datatype="html">
         <source>There was an error tagging one or more of your items:</source>
@@ -6851,7 +6851,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/tos-async/tos-modal/tos-modal.component.ts</context>
           <context context-type="linenumber">134</context>
         </context-group>
-        <target>Voltar</target>
+        <target>Atrás</target>
       </trans-unit>
       <trans-unit id="2417585718057037755" datatype="html">
         <source>Cancel Sign-In</source>
@@ -6875,7 +6875,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/tos-async/tos-modal/tos-modal.component.ts</context>
           <context context-type="linenumber">163</context>
         </context-group>
-        <target>Tem certeza?</target>
+        <target>¿Está seguro?</target>
       </trans-unit>
       <trans-unit id="4329436745681130052" datatype="html">
         <source>
@@ -6894,7 +6894,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/delete-trash-modal/delete-trash-modal.component.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target>1 item excluído com sucesso.</target>
+        <target>1 elemento eliminado correctamente.</target>
       </trans-unit>
       <trans-unit id="4773013807963837648" datatype="html">
         <source>
@@ -6913,7 +6913,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/delete-trash-modal/delete-trash-modal.component.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
-        <target>Erro ao excluir item(ns)</target>
+        <target>Error al eliminar elemento(s)</target>
       </trans-unit>
       <trans-unit id="8168150271709747804" datatype="html">
         <source> Empty Trash Confirmation </source>
@@ -6930,7 +6930,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/empty-all-trash-modal/empty-all-trash-modal.component.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
-        <target>Tem certeza de que deseja excluir todos os itens?</target>
+        <target>¿Está seguro de que desea eliminar todos los elementos?</target>
       </trans-unit>
       <trans-unit id="7704754384971099974" datatype="html">
         <source>All items successfully deleted.</source>
@@ -6964,7 +6964,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/restore-trash-modal/restore-trash-modal.component.ts</context>
           <context context-type="linenumber">66</context>
         </context-group>
-        <target>Tem certeza que deseja restaurar estes itens?</target>
+        <target>¿Está seguro de que desea restaurar estos elementos?</target>
       </trans-unit>
       <trans-unit id="8598385648114464357" datatype="html">
         <source>
@@ -6983,7 +6983,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/menu-action/restore-trash-modal/restore-trash-modal.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-        <target>Tem certeza que deseja restaurar este item?</target>
+        <target>¿Está seguro de que desea restaurar este elemento?</target>
       </trans-unit>
       <trans-unit id="2390412373676968256" datatype="html">
         <source> Size </source>
@@ -7019,7 +7019,7 @@ Affected Service User: ""
           <context context-type="linenumber">110,112</context>
         </context-group>
         <note priority="1" from="description">(Content Manager)</note>
-        <target>(Gerente de conteúdo)</target>
+        <target>(Administrador de contenido)</target>
       </trans-unit>
       <trans-unit id="3418677553313974490" datatype="html">
         <source>Trash</source>
@@ -7031,7 +7031,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-integrate/trash-registration.service.ts</context>
           <context context-type="linenumber">18</context>
         </context-group>
-        <target>Lixeira</target>
+        <target>Papelera</target>
       </trans-unit>
       <trans-unit id="418739495382358446" datatype="html">
         <source>Emptying trash currently in progress</source>
@@ -7039,7 +7039,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-async/trash/trash.component.ts</context>
           <context context-type="linenumber">191</context>
         </context-group>
-        <target>Esvaziamento da lixeira em andamento</target>
+        <target>Vaciado de papelera en curso</target>
       </trans-unit>
       <trans-unit id="381507723783122208" datatype="html">
         <source>Emptying trash</source>
@@ -7056,7 +7056,7 @@ Affected Service User: ""
           <context context-type="linenumber">34</context>
         </context-group>
         <note priority="1" from="description">Empty Trash button text</note>
-        <target>Esvaziar lixeira</target>
+        <target>Vaciar papelera</target>
       </trans-unit>
       <trans-unit id="6770769801335635194" datatype="html">
         <source>Restore</source>
@@ -7073,7 +7073,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-integrate/trash-registration.service.ts</context>
           <context context-type="linenumber">63</context>
         </context-group>
-        <target>No máximo 25 recursos podem ser restaurados de uma vez.</target>
+        <target>Es posible restaurar un máximo de 25 recursos a la vez.</target>
       </trans-unit>
       <trans-unit id="5050027691203837720" datatype="html">
         <source>Restore error</source>
@@ -7101,7 +7101,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/trash-integrate/trash.service.ts</context>
           <context context-type="linenumber">163</context>
         </context-group>
-        <target>1 item não pôde ser restaurado devido a um conflito de nomenclatura</target>
+        <target>1 elemento no pudo restaurarse debido a un conflicto de nombres</target>
       </trans-unit>
       <trans-unit id="6655796000006657322" datatype="html">
         <source>
@@ -7190,7 +7190,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/like-popup/like-popup.component.ts</context>
           <context context-type="linenumber">50</context>
         </context-group>
-        <target>Gerente de conteúdo</target>
+        <target>Administrador de contenido</target>
       </trans-unit>
       <trans-unit id="5685087361576051243" datatype="html">
         <source>Locked by</source>
@@ -7206,7 +7206,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/line-chart/line-chart.component.ts</context>
           <context context-type="linenumber">129</context>
         </context-group>
-        <target>Frequência de eventos</target>
+        <target>Frecuencia de los eventos</target>
       </trans-unit>
       <trans-unit id="4436168464964916360" datatype="html">
         <source>Desktop Client</source>
@@ -7214,7 +7214,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/menu-dropdown/menu-dropdown.component.ts</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target>Cliente de Desktop </target>
+        <target>Cliente de escritorio</target>
       </trans-unit>
       <trans-unit id="5937251202465808296" datatype="html">
         <source>More</source>
@@ -7227,7 +7227,7 @@ Affected Service User: ""
           <context context-type="linenumber">7</context>
         </context-group>
         <note priority="1" from="description">More Options</note>
-        <target>Mais</target>
+        <target>Más</target>
       </trans-unit>
       <trans-unit id="8149116825961359947" datatype="html">
         <source>
@@ -7264,7 +7264,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/profile-card/profile-card.component.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
-        <target>Exibir Perfil</target>
+        <target>Ver perfil</target>
       </trans-unit>
       <trans-unit id="7819314041543176992" datatype="html">
         <source>Close</source>
@@ -7276,7 +7276,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/upload/upload.service.ts</context>
           <context context-type="linenumber">460</context>
         </context-group>
-        <target>Fechar</target>
+        <target>Cerrar</target>
       </trans-unit>
       <trans-unit id="4995662334814758588" datatype="html">
         <source>Could not rename resource</source>
@@ -7312,7 +7312,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/shared-dropdown-filter/shared-dropdown-filter.component.ts</context>
           <context context-type="linenumber">51</context>
         </context-group>
-        <target>Compartilhado por</target>
+        <target>Compartido por</target>
       </trans-unit>
       <trans-unit id="3628214753505511525" datatype="html">
         <source>Shared To</source>
@@ -7320,7 +7320,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/shared-dropdown-filter/shared-dropdown-filter.component.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>Compartilhado com</target>
+        <target>Compartido con</target>
       </trans-unit>
       <trans-unit id="5203279511751768967" datatype="html">
         <source>From</source>
@@ -7328,7 +7328,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/shared-dropdown-filter/shared-dropdown-filter.component.ts</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target>De</target>
+        <target>Desde</target>
       </trans-unit>
       <trans-unit id="1640609344969975994" datatype="html">
         <source>To</source>
@@ -7336,7 +7336,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/shared-dropdown-filter/shared-dropdown-filter.component.ts</context>
           <context context-type="linenumber">54</context>
         </context-group>
-        <target>Para</target>
+        <target>Hasta</target>
       </trans-unit>
       <trans-unit id="7150593562313015326" datatype="html">
         <source>
@@ -7356,7 +7356,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/toggle-expand-view/toggle-expand-view.component.ts</context>
           <context context-type="linenumber">26</context>
         </context-group>
-        <target>Exibição padrão</target>
+        <target>Vista predeterminada</target>
       </trans-unit>
       <trans-unit id="829523053702101742" datatype="html">
         <source>Expanded View</source>
@@ -7364,7 +7364,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/ui/toggle-expand-view/toggle-expand-view.component.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <target>Exibição expandida</target>
+        <target>Vista expandida</target>
       </trans-unit>
       <trans-unit id="2639181829150486070" datatype="html">
         <source>Download desktop client</source>
@@ -7485,7 +7485,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/upload/options-updater.service.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
-        <target>Este arquivo já existe:</target>
+        <target>Este archivo ya existe:</target>
       </trans-unit>
       <trans-unit id="1572857950278044357" datatype="html">
         <source>The file you are trying to upload is over your maximum file size limit.</source>
@@ -7493,7 +7493,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/upload/options-updater.service.ts</context>
           <context context-type="linenumber">50</context>
         </context-group>
-        <target>O arquivo que você está tentando enviar ultrapassa o limite máximo de tamanho de arquivo.</target>
+        <target>El archivo que intenta cargar supera el límite de tamaño máximo.</target>
       </trans-unit>
       <trans-unit id="6132737454295161451" datatype="html">
         <source>The file you are trying to upload would cause you to go over your storage limit.</source>
@@ -7501,7 +7501,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/upload/options-updater.service.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>O arquivo que você está tentando enviar pode fazer com que você ultrapasse o limite de armazenamento.</target>
+        <target>El archivo que intenta cargar hará que supere el límite de almacenamiento.</target>
       </trans-unit>
       <trans-unit id="8649110934520308708" datatype="html">
         <source>You only have read-only access to this folder.</source>
@@ -7509,7 +7509,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/upload/options-updater.service.ts</context>
           <context context-type="linenumber">54</context>
         </context-group>
-        <target>Você tem acesso somente leitura a esta pasta.</target>
+        <target>Tiene acceso de solo lectura a esta carpeta.</target>
       </trans-unit>
       <trans-unit id="7681458388264363375" datatype="html">
         <source>There was an unknown error validating the file you are trying to upload.</source>
@@ -7549,7 +7549,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">35</context>
         </context-group>
-        <target>Criar novo usuário</target>
+        <target>Crear usuario nuevo</target>
       </trans-unit>
       <trans-unit id="6028371114637047813" datatype="html">
         <source>First Name</source>
@@ -7557,7 +7557,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">36</context>
         </context-group>
-        <target>Nome</target>
+        <target>Nombre</target>
       </trans-unit>
       <trans-unit id="4407559560004943843" datatype="html">
         <source>Last Name</source>
@@ -7565,7 +7565,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
-        <target>Sobrenome</target>
+        <target>Apellido</target>
       </trans-unit>
       <trans-unit id="57403663622654391" datatype="html">
         <source>Storage</source>
@@ -7573,7 +7573,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
-        <target>Armazenar</target>
+        <target>Almacenamiento</target>
       </trans-unit>
       <trans-unit id="5701618810648052610" datatype="html">
         <source>Title</source>
@@ -7581,7 +7581,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">40</context>
         </context-group>
-        <target>Título</target>
+        <target>Puesto</target>
       </trans-unit>
       <trans-unit id="4163868124298242888" datatype="html">
         <source>Special Characters are not allowed</source>
@@ -7597,7 +7597,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target>Usuário criado com sucesso!</target>
+        <target>¡Usuario creado correctamente!</target>
       </trans-unit>
       <trans-unit id="6883416854769600657" datatype="html">
         <source>User already exists. Would you like to invite them into your organization?</source>
@@ -7629,7 +7629,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/new-user-form/new-user-form.component.ts</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target>Convite enviado com sucesso</target>
+        <target>Invitación enviada correctamente</target>
       </trans-unit>
       <trans-unit id="8367515887859759432" datatype="html">
         <source>
@@ -7684,7 +7684,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/modules/users-async/users-home/users-home.component.ts</context>
           <context context-type="linenumber">10</context>
         </context-group>
-        <target>Novo usuário</target>
+        <target>Nuevo usuario</target>
       </trans-unit>
       <trans-unit id="4555457172864212828" datatype="html">
         <source>Users</source>
@@ -7693,7 +7693,7 @@ Affected Service User: ""
           <context context-type="linenumber">17</context>
         </context-group>
         <note priority="1" from="description">Users sidebar link text</note>
-        <target>Usuários</target>
+        <target>Usuarios</target>
       </trans-unit>
       <trans-unit id="5815402189639789859" datatype="html">
         <source>AM</source>
@@ -8057,7 +8057,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/filters/any-filter.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target>Todos os arquivos</target>
+        <target>Todos los archivos</target>
       </trans-unit>
       <trans-unit id="1787083504545967" datatype="html">
         <source>Relevance</source>
@@ -8073,7 +8073,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/filters/myfiles-filter.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
-        <target>Apenas meus arquivos</target>
+        <target>Solo mis archivos</target>
       </trans-unit>
       <trans-unit id="1900889170588140415" datatype="html">
         <source>Shared With Me</source>
@@ -8081,7 +8081,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/filters/shared-in-filter.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target>Compartilhado comigo</target>
+        <target>Compartidos conmigo</target>
       </trans-unit>
       <trans-unit id="6533964346166455386" datatype="html">
         <source>Files I'm Sharing</source>
@@ -8089,7 +8089,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/filters/shared-out-filter.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target>Arquivos que estou compartilhando</target>
+        <target>Archivos que comparto</target>
       </trans-unit>
       <trans-unit id="4625190678454307046" datatype="html">
         <source>Two-Factor Authentication is temporarily suspended.</source>
@@ -8097,7 +8097,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/global.service.ts</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target>A autenticação de dois fatores está temporariamente suspensa.</target>
+        <target>La autenticación en dos fases está suspendida temporalmente.</target>
       </trans-unit>
       <trans-unit id="5720459829421148811" datatype="html">
         <source>Click to update.</source>
@@ -8105,7 +8105,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/global.service.ts</context>
           <context context-type="linenumber">41</context>
         </context-group>
-        <target>Clique para atualizar.</target>
+        <target>Haga clic para actualizar.</target>
       </trans-unit>
       <trans-unit id="1189838285371870703" datatype="html">
         <source>ENABLED</source>
@@ -8113,7 +8113,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/otds.service.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target>ATIVADO</target>
+        <target>HABILITADO</target>
       </trans-unit>
       <trans-unit id="6993827833437178306" datatype="html">
         <source>PENDING</source>
@@ -8121,7 +8121,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/otds.service.ts</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target>PENDENTE</target>
+        <target>PENDIENTE</target>
       </trans-unit>
       <trans-unit id="3719083072978514538" datatype="html">
         <source>_BY_ADMIN</source>
@@ -8129,7 +8129,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/otds.service.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
-        <target> pelo administrador</target>
+        <target> por administrador</target>
       </trans-unit>
       <trans-unit id="8980791918009295189" datatype="html">
         <source>SUSPENDED</source>
@@ -8137,7 +8137,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/otds.service.ts</context>
           <context context-type="linenumber">61</context>
         </context-group>
-        <target>SUSPENSO</target>
+        <target>SUSPENDIDO</target>
       </trans-unit>
       <trans-unit id="7091008910372815570" datatype="html">
         <source>DISABLED</source>
@@ -8145,7 +8145,7 @@ Affected Service User: ""
           <context context-type="sourcefile">src/app/utils/otds.service.ts</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target>DESATIVADO</target>
+        <target>DESHABILITADO</target>
       </trans-unit>
     </body>
   </file>
