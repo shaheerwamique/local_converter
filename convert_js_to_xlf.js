@@ -24450,7 +24450,6 @@ const translations = {
     zh_TW: translations_zh_TW,
 };
 
-// Function to process translations for a given locale
 function processTranslations(locale, translations) {
     const fileName = `messages.${locale}.xlf`;
 
@@ -24495,7 +24494,6 @@ function processTranslations(locale, translations) {
     });
 }
 
-// Loop through each locale and call the function
 Object.keys(translations).forEach(locale => {
     processTranslations(locale, translations[locale]);
 });
